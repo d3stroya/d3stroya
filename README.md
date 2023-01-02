@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java, Python & React**
 
-- 📫 How to reach me **https://twitter.com/d3stroya_/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/destroya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="destroya_" height="30" width="40" /></a>
