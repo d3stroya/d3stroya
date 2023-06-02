@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vírgula](virgulablog.es)
 
-- 🌱 I’m currently learning **Java, Python & React**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
